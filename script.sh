@@ -1,7 +1,3 @@
-#! bin/bash
-
-sudo su
-
 useradd -m -d /opt/tomcat -U -s /bin/false tomcat
 
 apt update
